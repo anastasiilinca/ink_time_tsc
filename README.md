@@ -1,4 +1,4 @@
-[!SCHEMA_BLOC]![alt text](SCHEMA BLOC TSC.pdf)
+[SCHEMA_BLOC] - (vezi SCHEMA BLOC TSC.pdf)
 
 # Descriere Hardware
 
